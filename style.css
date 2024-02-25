@@ -1,0 +1,190 @@
+* {
+  font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+}
+
+
+.main {
+  height: 90vh;
+  width: 100%;
+  margin-bottom: 5px;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://72digital.gg/app-assets/images/products/641eddd82e459.jpg');
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+}
+.collapse {
+  justify-content: end;
+  padding-right: 160px;
+}
+
+.navbar-brand{
+  margin-left: 130px;
+}
+.nav-item1 {
+  border: 2px solid white;
+  margin: 6px;
+  padding: 2px;
+  border-radius: 8px;
+  padding: 0px 4px;
+ 
+}
+option{
+  color: black;
+}
+.nav-item a {
+  color: aliceblue;
+  font-size: medium;
+  font-weight: 600;
+}
+.nav-item2 {
+  background-color: #e50914;
+  border-radius: 8px;
+  color: #e50914;
+  margin: 6px;
+  padding: 2px;
+  padding: 0px 4px;
+}
+.main-heading {
+  height: 300px;
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+  align-self: center;
+  margin-top: 160px;
+}
+.main-heading h1 {
+  text-align: center;
+  font-weight: 800;
+  color: white;
+}
+.main-heading p {
+  text-align: center;
+  color: white;
+  font-weight: 600;
+}
+.main-search {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 0%;
+  margin: 0%;
+}
+.navbar-toggler{
+  background-color: white !important;
+}
+.navbar-toggler-icon{
+  color: #fff !important;
+}
+.main-search-sub {
+  width: 375.35px;
+  border: 1px solid white;
+  height: 56px;
+  background-color:rgba(0, 0, 0, 0.5);
+  border-radius: 5px;
+  border-color: #676767;
+  margin-right: 10px;
+  padding: 10px 10px;
+  color: white;
+}
+.main-btn {
+  background-color: #e50914;
+  color: white;
+  font-weight: 400;
+  border: 2px solid #e50914;
+  border-radius: 5px;
+  width: 200px;
+  height: 56px;
+  font-size: 24px;
+  
+}
+
+.partition {
+  height: 84vh;
+  width: 100%;
+  background-color: black;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 5px;
+}
+.partition-heading h2 {
+  color: white;
+  font-size: 48px;
+  font-weight: 900;
+}
+.partition-heading p {
+  color: white;
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.partition-img img {
+  width: 430px;
+  height: 33px  0px;
+  position: absolute;
+}
+
+.partition2 {
+  flex-direction: row-reverse;
+}
+.faq {
+  margin-bottom: 3px;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  
+}
+.faq p{
+  color: white;
+  font-size: 24px;
+}
+.faq h1 {
+  padding: 1em;
+  color: white;
+  font-size: x-large;
+  font-weight: 900;
+}
+.btn-faq {
+  background-color: #434343;
+  
+  width: 1100px;
+  display: flex;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  padding: 26px;
+  align-items: center;
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.card-body1 {
+  
+  font-size: 24px;
+  padding: 26px;
+  color: #fff;
+}
+.card {
+  background-color: #434343 !important;
+  padding: 26px;
+  
+  width: 1100px;
+  margin-bottom: 8px;
+  margin-top: 1px;
+  margin-left: 50px;
+
+  
+}
+
+.main-search{
+  margin: 1em;
+}
+
+
+
